@@ -1,0 +1,55 @@
+.visual-wrapper {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    position: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: tomato;
+}
+
+.button-layout {
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+
+.content-wrapper {
+    width: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    text-align: center;
+    background-color: white;
+}
+
+.content-layout {
+}
+
+.project-layout {
+}
+
+.aboutme-layout {
+}
+
+.git{
+    width: 50px;
+    height: 50px;
+}
+
+.aboutme-layout > p {
+    font-weight: 500;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.my-picture {
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    padding-top: 6%;
+    padding-bottom: 1%
+}
+
+.footer {
+    margin-top: 100%;
+}
+
